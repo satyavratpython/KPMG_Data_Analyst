@@ -4,7 +4,6 @@ Data Quality Assessment The project began with an evaluation of Sprocket Central
 
 * Task 2:
 Customer Potential Analysis A new list of 1000 potential customers was analyzed using the existing datasets as a reference. The analysis aimed to identify high-value customers for targeted marketing efforts. A PowerPoint presentation was prepared to outline the approach for data exploration, model development, and interpretation, which included:
-
 Understanding data distributions
 Feature engineering
 Data transformations
@@ -14,7 +13,6 @@ This plan was presented for client approval, detailing the strategic steps for e
 
 * Task 3: 
 Dashboard Development An interactive dashboard was created to present key findings and analysis results. The dashboard, limited to three views/tabs, was designed to be visually engaging and informative, incorporating the client’s logo. It highlighted:
-
 Trends in the data
 Customer segments with the highest value
 Proposed marketing and growth strategies
